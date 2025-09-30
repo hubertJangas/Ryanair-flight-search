@@ -1,0 +1,9 @@
+{
+  "departureName": "Warszawa-Chopina",
+  "departureId": "WAW",
+  "destinationName": "Manchester",
+  "destinationId": "MAN",
+  "datePlaceholder": "Wybierz datę",
+  "searchFlightUrlPart": "https://www.ryanair.com/pl/pl/trip/flights/select?",
+  "fareHeaderText": "Wybierz taryfę"
+}
